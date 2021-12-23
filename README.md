@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to <a href="https://adaresa.github.io/">Kasper Vaus</a>'s profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--
-**adaresa/adaresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a bachelors's student at [TalTech](https://taltech.ee/) majoring in Hardware Development & Programming. 
 
-Here are some ideas to get you started:
+- 🔭 I’m interested in computers, robots, microcontrollers & web, game, software developing and aspiring to expand my knowledge in each and every one of them.
+- 💬 Contact me to discuss ideas, propositions, tech, video games, and anything else
+- 📫 How to reach me: kasper.vaus0@gmail.com
+- 📝 [Resume](https://adaresa.github.io/media/Kasper_Vaus.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kasper's Github Stats](https://github-readme-stats.vercel.app/api?username=adaresa&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaresa&hide=TeX&layout=compact)
