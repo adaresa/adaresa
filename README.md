@@ -7,7 +7,7 @@ I am a bachelors's student at [TalTech](https://taltech.ee/) majoring in Hardwar
 
 - 🔭 I’m interested in computers, robots, microcontrollers & web, game, software developing and aspiring to expand my knowledge in each and every one of them.
 - 💬 Contact me to discuss ideas, propositions, tech, video games, and anything else
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kasper-vaus)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kasper-vaus)
 - 📝 [Resume](https://adaresa.github.io/media/Kasper_Vaus.pdf)
 
 ![Kasper's Github Stats](https://github-readme-stats.vercel.app/api?username=adaresa&count_private=true&show_icons=true&include_all_commits=true)
